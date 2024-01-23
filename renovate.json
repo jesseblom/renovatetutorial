@@ -4,3 +4,6 @@
     "config:recommended"
   ]
 }
+{
+  "prHourlyLimit": 3
+}
